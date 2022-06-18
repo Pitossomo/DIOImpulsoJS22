@@ -5,8 +5,8 @@ Meu primeiro (mais ou menos) repositório para GitHub no Bootcamp DIO Impulso JS
 Exigido como um primeiro contato com o Github no curso, serviráeste repositório como um registro das atividades desenvolvidas durante e, quem sabe, como um portfolio pessoal.
 
 ## Redes sociais
-* [https://www.linkedin.com/in/pedrocarvalhoeng/](Linkedin)
-* [https://github.com/Pitossomo](Github)
+* [Linkedin](https://www.linkedin.com/in/pedrocarvalhoeng/)
+* [Github](https://github.com/Pitossomo)
 
 ## Módulos do Bootcamp
 ### 0. Prepare-se para a jornada
