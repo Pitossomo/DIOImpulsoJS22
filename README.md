@@ -2,7 +2,7 @@
 
 Meu primeiro (mais ou menos) repositório para GitHub no Bootcamp DIO Impulso JS 2022.
 
-Exigido como um primeiro contato com o Github no curso, serviráeste repositório como um registro das atividades desenvolvidas durante e, quem sabe, como um portfolio pessoal.
+Exigido como um primeiro contato com o Github no curso, este repositório servirá como um registro das atividades desenvolvidas durante e, quem sabe, como um portfolio pessoal.
 
 ## Redes sociais
 * [Linkedin](https://www.linkedin.com/in/pedrocarvalhoeng/)
