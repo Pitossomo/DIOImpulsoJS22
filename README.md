@@ -9,15 +9,11 @@ Exigido como um primeiro contato com o Github no curso, serviráeste repositóri
 [https://github.com/Pitossomo](Github)
 
 ## Módulos do Bootcamp
-<details>
-  <summary>
-    ### 0. Prepare-se para a jornada
-  </summary>
-  - [x] Conheça as oportunidades da DIO
-  - [x] Seja Protagonista neste bootcamp
-  - [x] Boas vindas ao impulso Javascript Evolution
-  - [ ] Mentoria - aula inaugural (20/06)
-</details>
+### 0. Prepare-se para a jornada
+- [x] Conheça as oportunidades da DIO
+- [x] Seja Protagonista neste bootcamp
+- [x] Boas vindas ao impulso Javascript Evolution
+- [ ] Mentoria - aula inaugural (20/06)
 
 ### 1. Princípios de Desenvolvimento de Software
 - [x] Introdução à programação e pensamento computacional
