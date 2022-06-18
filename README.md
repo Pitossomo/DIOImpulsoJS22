@@ -5,8 +5,8 @@ Meu primeiro (mais ou menos) repositório para GitHub no Bootcamp DIO Impulso JS
 Exigido como um primeiro contato com o Github no curso, serviráeste repositório como um registro das atividades desenvolvidas durante e, quem sabe, como um portfolio pessoal.
 
 ## Redes sociais
-[https://www.linkedin.com/in/pedrocarvalhoeng/](Linkedin)
-[https://github.com/Pitossomo](Github)
+* [https://www.linkedin.com/in/pedrocarvalhoeng/](Linkedin)
+* [https://github.com/Pitossomo](Github)
 
 ## Módulos do Bootcamp
 ### 0. Prepare-se para a jornada
@@ -18,7 +18,7 @@ Exigido como um primeiro contato com o Github no curso, serviráeste repositóri
 ### 1. Princípios de Desenvolvimento de Software
 - [x] Introdução à programação e pensamento computacional
 - [x] Introdução ao Git e Github
-- [ ] Criando seu Primeiro Repositório no Github para compartilhar seu progresso
+- [x] Criando seu Primeiro Repositório no Github para compartilhar seu progresso
 
 ### 2. Fundamentos Web com HTML e CSS
 - [ ] Primeiros passos para desenvolvimento web
