@@ -21,7 +21,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [x] Criando seu Primeiro Repositório no Github para compartilhar seu progresso
 
 ### 2. Fundamentos Web com HTML e CSS
-- [ ] Primeiros passos para desenvolvimento web
+- [ ] [Primeiros passos para desenvolvimento web](./Modulo%202/2.1%20Primeiros%20passos%20para%20WebDev.md)
 - [x] Introdução à criação de websites com HTML5 e CSS3
 - [ ] Posicionando elementos com Flexbox em CSS
 - [ ] Recriando a página inicial do Instagram
