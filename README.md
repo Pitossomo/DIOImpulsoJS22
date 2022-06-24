@@ -13,7 +13,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [x] Conheça as oportunidades da DIO
 - [x] Seja Protagonista neste bootcamp
 - [x] Boas vindas ao impulso Javascript Evolution
-- [ ] Mentoria - aula inaugural (20/06)
+- [x] [Mentoria 1 - aula inaugural (20/06)](./Modulo%200/Mentoria.md)
 
 ### 1. Princípios de Desenvolvimento de Software
 - [x] Introdução à programação e pensamento computacional
