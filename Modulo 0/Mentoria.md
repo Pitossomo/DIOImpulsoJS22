@@ -1,7 +1,7 @@
 # Bootcamp DIO Impulso Javascript 2022
 
 ## Sobre o programa
-  - Prazo: até 07/agosto/2022 para concluir as atividades
+  - Prazo: até 07/08/2022 para concluir as atividades
   - *Front-end* e *back-end* com Javascript
   - 4 mentorias ao vivo
   - Atividades práticas
