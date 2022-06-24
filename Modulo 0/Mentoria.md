@@ -25,3 +25,9 @@
   - Desafios de código
   - Desafios de projeto
   - Rooms
+
+## Conclusão
+  - Dedicação!
+  - DIO Pro = Labs e Formações
+  - DIO Global = DIO Pro + English4Tech 
+  - Filosofia do sucesso
