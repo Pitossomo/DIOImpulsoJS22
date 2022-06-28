@@ -65,3 +65,6 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [ ] Microsserviços e integrações com Node.js
 - [ ] Criando uma API Rest com Node.js e TypeORM
 - [ ] Integrando um Backend em Node.js com um Frontend em React para um E-commerce
+
+### Mentorias
+- [ ] [Mentoria 2](./Mentorias/Live%202.md)
