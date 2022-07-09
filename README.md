@@ -23,8 +23,8 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 ### 2. Fundamentos Web com HTML e CSS
 - [x] [Primeiros passos para desenvolvimento web](./Modulo%202/2.1%20Primeiros%20passos%20para%20WebDev.md)
 - [x] Introdução à criação de websites com HTML5 e CSS3
-- [ ] [Posicionando elementos com Flexbox em CSS](https://pitossomo.github.io/DIOImpulso22-FlexBox/)
-- [ ] Recriando a página inicial do Instagram
+- [x] [Posicionando elementos com Flexbox em CSS](https://pitossomo.github.io/DIOImpulso22-FlexBox/)
+- [x] [Recriando a página inicial do Instagram](https://pitossomo.github.io/instagram-login-clone/)
 
 ### 3. Dominando a Linguagem de Programação Javascript
 - [ ] IDE Instalação e Configuração (VS Code)
