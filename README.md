@@ -1,8 +1,8 @@
-# Github Portfolio - DIO Impulso Javascript 2022
+# Github Portfolio - DIO Impulso Javascript 2022 ![impulsoBadge](https://user-images.githubusercontent.com/2355303/178139040-14ab6519-a09d-46b2-b78d-f315a065d848.png)
 
 Meu primeiro (mais ou menos) repositório para GitHub no Bootcamp DIO Impulso JS 2022.
 
-Exigido como um primeiro contato com o Github no curso, este repositório servirá como um registro das atividades desenvolvidas durante e, quem sabe, como um portfolio pessoal.
+Exigido como um primeiro contato com o Github no curso, este repositório servirá também como um registro das atividades desenvolvidas durante o curso.
 
 ## Redes sociais
 * [Linkedin](https://www.linkedin.com/in/pedrocarvalhoeng/)
