@@ -27,8 +27,8 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [x] [Recriando a página inicial do Instagram](https://pitossomo.github.io/instagram-login-clone/)
 
 ### 3. Dominando a Linguagem de Programação Javascript
-- [ ] IDE Instalação e Configuração (VS Code)
-- [ ] Introdução ao Javascript
+- [x] IDE Instalação e Configuração (VS Code)
+- [x] [Introdução ao Javascript](https://pitossomo.github.io/reimagined-train/)
 - [ ] Sintaxe Básica em Javascript
 - [ ] Sintaxe e Operadores
 - [ ] Variáveis e tipos
