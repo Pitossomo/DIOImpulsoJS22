@@ -29,7 +29,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 ### 3. Dominando a Linguagem de Programação Javascript
 - [x] IDE Instalação e Configuração (VS Code)
 - [x] [Introdução ao Javascript](https://pitossomo.github.io/reimagined-train/)
-- [ ] Sintaxe Básica em Javascript
+- [x] [Sintaxe Básica em Javascript](https://pitossomo.github.io/scaling-invention/)
 - [ ] Sintaxe e Operadores
 - [ ] Variáveis e tipos
 - [ ] Funções
