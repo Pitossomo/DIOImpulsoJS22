@@ -30,7 +30,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [x] IDE Instalação e Configuração (VS Code)
 - [x] [Introdução ao Javascript](https://pitossomo.github.io/reimagined-train/)
 - [x] [Sintaxe Básica em Javascript](https://pitossomo.github.io/scaling-invention/)
-- [ ] Sintaxe e Operadores
+- [x] Sintaxe e Operadores
 - [ ] Variáveis e tipos
 - [ ] Funções
 - [ ] Debugging e Error Handling
@@ -56,7 +56,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [ ] Introdução ao MongoDB e Banco de Dados NoSQL
 
 ### 6. Back-end: Criando API com Node.js
-- [ ] Instalando e configurando seu ambiente Node.js
+- [ ] [Instalando e configurando seu ambiente Node.js](./Modulo%206/6.1%20Instalando%20e%20configurando%20seu%20ambiente%20NodeJS.md)
 - [ ] Introdução ao Node.js com Javascript
 - [ ] Fundamentos de Node.js e Jest
 - [ ] Pirâmide de Testes na Prática Explorando Jest e TDD
@@ -67,4 +67,5 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [ ] Integrando um Backend em Node.js com um Frontend em React para um E-commerce
 
 ### Mentorias
-- [ ] [Mentoria 2](./Mentorias/Live%202.md)
+- [x] [Mentoria 2](./Mentorias/Live%202.md)
+- [x] [Mentoria 2](./Mentorias/Live%202.md)
