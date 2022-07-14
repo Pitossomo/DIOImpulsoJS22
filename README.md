@@ -56,7 +56,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [ ] Introdução ao MongoDB e Banco de Dados NoSQL
 
 ### 6. Back-end: Criando API com Node.js
-- [ ] [Instalando e configurando seu ambiente Node.js](./Modulo%206/6.1%20Instalando%20e%20configurando%20seu%20ambiente%20NodeJS.md)
+- [x] [Instalando e configurando seu ambiente Node.js](./Modulo%206/6.1%20Instalando%20e%20configurando%20seu%20ambiente%20NodeJS.md) ![badgeIntroNodeSm](./imagens/badgeIntroNodeSmall.png)
 - [ ] Introdução ao Node.js com Javascript
 - [ ] Fundamentos de Node.js e Jest
 - [ ] Pirâmide de Testes na Prática Explorando Jest e TDD
