@@ -59,7 +59,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [x] [Instalando e configurando seu ambiente Node.js](./Modulo%206/6.1%20Instalando%20e%20configurando%20seu%20ambiente%20NodeJS.md) ![badgeIntroNodeSm](./imagens/badgeIntroNodeSmall.png)
 - [x] [Introdução ao Node.js com Javascript](./Modulo%206/6.2%20Introdu%C3%A7%C3%A3o%20ao%20NodeJS%20com%20Javascript.md)
 - [x] [Fundamentos de Node.js e Jest](https://github.com/Pitossomo/dio-node-jest-22)
-- [ ] [Pirâmide de Testes na Prática Explorando Jest e TDD](https://github.com/Pitossomo/stunning-funicular)
+- [x] [Pirâmide de Testes na Prática Explorando Jest e TDD](https://github.com/Pitossomo/stunning-funicular) ![badgeTDD](./imagens/badgeTDDNodeJestSmall.png)
 - [ ] Explorando o Estilo Arquitetural REST com Node.js
 - [ ] Node.js com Bancos de Dados Relacionais (SQL)
 - [ ] Microsserviços e integrações com Node.js
