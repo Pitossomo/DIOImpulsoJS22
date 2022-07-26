@@ -68,4 +68,4 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 
 ### Mentorias
 - [x] [Mentoria 2](./Mentorias/Live%202.md)
-- [x] [Mentoria 2](./Mentorias/Live%202.md)
+- [x] [Mentoria 5](./Mentorias/Live%205.md)
