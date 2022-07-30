@@ -64,7 +64,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [x] [Node.js com Bancos de Dados Relacionais (SQL)](https://github.com/Pitossomo/urban-adventure) - Parte 2, continuação do curso anterior
 - [x] [Microsserviços e integrações com Node.js](https://github.com/Pitossomo/urban-adventure) - Parte 3, conclusão do curso anterior
 - [ ] [Criando uma API Rest com Node.js e TypeORM](https://github.com/Pitossomo/typeORM-dio-api)
-- [ ] Integrando um Backend em Node.js com um Frontend em React para um E-commerce
+- [x] Integrando um [Backend](https://github.com/Pitossomo/api-dioshopping) em Node.js com um [Frontend](https://github.com/Pitossomo/dioshopping) em React para um E-commerce
 
 ### Mentorias
 - [x] [Mentoria 2](./Mentorias/Live%202.md)
