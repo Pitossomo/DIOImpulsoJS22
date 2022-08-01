@@ -52,8 +52,8 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [x] Criando um front-end totalmente componentizado na prática com ReactJ
 
 ### 5. Bancos de dados Relacionais (SQL) e Não relacionais (NoSQL)
-- [ ] Conceitos e melhores práticas com bancos de dados PostgreSQL
-- [ ] Introdução ao MongoDB e Banco de Dados NoSQL
+- [x] [Conceitos e melhores práticas com bancos de dados PostgreSQL](./Modulo%205/5.1%20Bancos%20de%20dados%20relacionais%20e%20SQL%20.md)
+- [ ] [Introdução ao MongoDB e Banco de Dados NoSQL](./Modulo%205/5.2%20MongoDB%20e%20NoSQL.md)
 
 ### 6. Back-end: Criando API com Node.js
 - [x] [Instalando e configurando seu ambiente Node.js](./Modulo%206/6.1%20Instalando%20e%20configurando%20seu%20ambiente%20NodeJS.md) ![badgeIntroNodeSm](./imagens/badgeIntroNodeSmall.png)
