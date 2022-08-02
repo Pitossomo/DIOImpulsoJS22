@@ -43,7 +43,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [ ] Introdução Prática ao Typescript
 
 ### 4. Front-end: Desenvolvimento Web com React
-- [ ] Conhecendo os Principais Protocolos de Comunicação da Internet
+- [ ] [Conhecendo os Principais Protocolos de Comunicação da Internet](./Modulo%204/4.1%20Protocolos%20de%20comunica%C3%A7%C3%A3o.md)
 - [x] Introdução ao ReactJS
 - [x] Desenvolvimento de aplicações para internet com ReactJS
 - [x] Introdução aos React Hooks
@@ -53,7 +53,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 
 ### 5. Bancos de dados Relacionais (SQL) e Não relacionais (NoSQL)
 - [x] [Conceitos e melhores práticas com bancos de dados PostgreSQL](./Modulo%205/5.1%20Bancos%20de%20dados%20relacionais%20e%20SQL%20.md)
-- [ ] [Introdução ao MongoDB e Banco de Dados NoSQL](./Modulo%205/5.2%20MongoDB%20e%20NoSQL.md)
+- [x] [Introdução ao MongoDB e Banco de Dados NoSQL](./Modulo%205/5.2%20MongoDB%20e%20NoSQL.md)
 
 ### 6. Back-end: Criando API com Node.js
 - [x] [Instalando e configurando seu ambiente Node.js](./Modulo%206/6.1%20Instalando%20e%20configurando%20seu%20ambiente%20NodeJS.md) ![badgeIntroNodeSm](./imagens/badgeIntroNodeSmall.png)
