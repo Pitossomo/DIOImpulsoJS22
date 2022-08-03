@@ -43,11 +43,11 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [ ] Introdução Prática ao Typescript
 
 ### 4. Front-end: Desenvolvimento Web com React
-- [ ] [Conhecendo os Principais Protocolos de Comunicação da Internet](./Modulo%204/4.1%20Protocolos%20de%20comunica%C3%A7%C3%A3o.md)
+- [x] [Conhecendo os Principais Protocolos de Comunicação da Internet](./Modulo%204/4.1%20Protocolos%20de%20comunica%C3%A7%C3%A3o.md)
 - [x] Introdução ao ReactJS
 - [x] Desenvolvimento de aplicações para internet com ReactJS
 - [x] Introdução aos React Hooks
-- [ ] Trabalhando com States & Effects no ReactJS
+- [ ] [Trabalhando com States & Effects no ReactJS](#)
 - [x] Práticas avançadas em projetos com ReactJS
 - [x] Criando um front-end totalmente componentizado na prática com ReactJ
 
@@ -63,7 +63,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [x] [Explorando o Estilo Arquitetural REST com Node.js](https://github.com/Pitossomo/urban-adventure) - Parte 1
 - [x] [Node.js com Bancos de Dados Relacionais (SQL)](https://github.com/Pitossomo/urban-adventure) - Parte 2, continuação do curso anterior
 - [x] [Microsserviços e integrações com Node.js](https://github.com/Pitossomo/urban-adventure) - Parte 3, conclusão do curso anterior
-- [ ] [Criando uma API Rest com Node.js e TypeORM](https://github.com/Pitossomo/typeORM-dio-api)
+- [x] [Criando uma API Rest com Node.js e TypeORM](https://github.com/Pitossomo/typeORM-dio-api)
 - [x] Integrando um [Backend](https://github.com/Pitossomo/api-dioshopping) em Node.js com um [Frontend](https://github.com/Pitossomo/dioshopping) em React para um E-commerce
 
 ### Mentorias
