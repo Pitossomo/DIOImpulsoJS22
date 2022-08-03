@@ -47,7 +47,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [x] Introdução ao ReactJS
 - [x] Desenvolvimento de aplicações para internet com ReactJS
 - [x] Introdução aos React Hooks
-- [ ] [Trabalhando com States & Effects no ReactJS](#)
+- [x] [Trabalhando com States & Effects no ReactJS](./Modulo%204/4.5%20React%20com%20Hooks%20%26%20State.md)
 - [x] Práticas avançadas em projetos com ReactJS
 - [x] Criando um front-end totalmente componentizado na prática com ReactJ
 
