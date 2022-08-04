@@ -31,7 +31,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [x] [Introdução ao Javascript](https://pitossomo.github.io/reimagined-train/)
 - [x] [Sintaxe Básica em Javascript](https://pitossomo.github.io/scaling-invention/)
 - [x] Sintaxe e Operadores
-- [ ] Variáveis e tipos
+- [x] [Variáveis e tipos](./Modulo%203//3.5%20Vari%C3%A1veis%20e%20Tipos%20com%20JS.md)
 - [ ] Funções
 - [ ] Debugging e Error Handling
 - [ ] Desafios Iniciais JS - Impulso Javascript Evolution
