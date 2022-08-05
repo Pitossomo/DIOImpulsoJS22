@@ -35,7 +35,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [x] [Funções](./Modulo%203/3.6%20Fun%C3%A7%C3%B5es%20JS.md)
 - [x] [Debugging e Error Handling](./Modulo%203/3.7%20Erros%20e%20Debug)
 - [x] Desafios Iniciais JS - Impulso Javascript Evolution
-- [ ] Manipulando a D.O.M. com Javascript
+- [x] [Manipulando a D.O.M. com Javascript](./Modulo%203/3.8%20Manipulando%20o%20DOM.md)
 - [ ] Javascript Assíncrono
 - [ ] Orientação a objetos
 - [ ] Introdução ao Typescript: Explorando classes, tipos e interfaces
