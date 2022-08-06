@@ -40,7 +40,7 @@ Exigido como um primeiro contato com o Github no curso, este repositório servir
 - [x] [Orientação a objetos](./Modulo%203/3.11%20Orienta%C3%A7%C3%A3o%20a%20objetos.md)
 - [x] [Introdução ao Typescript: Explorando classes, tipos e interfaces](./Modulo%203/3.12%20Typescript.md)
 - [x] Desafios intermediários JS - Impulso Javascript Evolution
-- [ ] Introdução Prática ao Typescript
+- [x] [Introdução Prática ao Typescript](https://github.com/Pitossomo/didactic-adventure)
 
 ### 4. Front-end: Desenvolvimento Web com React
 - [x] [Conhecendo os Principais Protocolos de Comunicação da Internet](./Modulo%204/4.1%20Protocolos%20de%20comunica%C3%A7%C3%A3o.md)
